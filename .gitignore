@@ -1,0 +1,5 @@
+GlProject.sln
+x64*
+bin*
+*.vcxproj*
+.vs*
